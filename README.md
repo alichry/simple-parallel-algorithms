@@ -1,4 +1,5 @@
 # Simple parallel algorithms
 # TODO
 - This README
-- Remember important todo that was supposed to be written here
+- Add Makefile
+- Check MPI_STATUS instead of ignoring it
